@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suleman Masih</h1>
 <h3 align="center">DevOps Enthusiast</h3>
 
-- 💬 Ask me about **Linux Terraform CI/CD Docker**
+- 🔭 I’m currently working on **Linux, Terraform, Docker, GitHub Action, AWS**
+
+- 🌱 I’m currently learning **IaC, Kubernetes, Micro-services**
+
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **suleman.masih.dev@gmail.com**
 
