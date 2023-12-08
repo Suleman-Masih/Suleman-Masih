@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS,IaC,CI/CD**
 
-- 💬 Ask me about **linux terraform ci/cd docker**
+- 💬 Ask me about **Linux Terraform CI/CD Docker**
 
 - 📫 How to reach me **suleman.masih.dev@gmail.com**
 
