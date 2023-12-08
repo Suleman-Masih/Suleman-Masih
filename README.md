@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suleman Masih</h1>
 <h3 align="center">DevOps Enthusiast</h3>
 
-- 🌱 I’m currently learning **AWS,IaC,CI/CD**
-
 - 💬 Ask me about **Linux Terraform CI/CD Docker**
 
 - 📫 How to reach me **suleman.masih.dev@gmail.com**
